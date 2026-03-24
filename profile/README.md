@@ -93,23 +93,23 @@ Our work is documented through extraordinary films. These tell the story of Coch
 
 #### Fundraising Progress — $78M raised from 21 countries
 
-![Fundraising Chart](Assets/chart-fundraising.svg)
+![Fundraising Chart](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/chart-fundraising.svg)
 
 #### Hectares Under Protection — Conservation milestones 2009–2025
 
-![Hectares Protected](Assets/chart-hectares.svg)
+![Hectares Protected](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/chart-hectares.svg)
 
 #### Ecosystem Composition — 132,876 hectares by land cover
 
-![Ecosystem Composition](Assets/chart-ecosystem.svg)
+![Ecosystem Composition](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/chart-ecosystem.svg)
 
 #### Conservation Plan — 80% strict protection / 20% sustainable use
 
-![Conservation Plan](Assets/pie-conservation-plan.svg)
+![Conservation Plan](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/pie-conservation-plan.svg)
 
 #### Binational Biological Corridor — 1.64 million hectares connected
 
-![Biological Corridor](Assets/pie-corridor.svg)
+![Biological Corridor](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/pie-corridor.svg)
 
 ---
 
@@ -117,23 +117,23 @@ Our work is documented through extraordinary films. These tell the story of Coch
 
 #### 🌿 Millennial Alerce Forests — Earth's Longest-Living Trees
 
-![Alerce Forests Infographic](Assets/alerce-forests.svg)
+![Alerce Forests Infographic](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/alerce-forests.svg)
 
 #### 🦌 Biodiversity Monitoring — Endemic & Endangered Species
 
-![Huemul Biodiversity Infographic](Assets/huemul-biodiversity.svg)
+![Huemul Biodiversity Infographic](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/huemul-biodiversity.svg)
 
 #### 💧 Strategic Freshwater Reserve
 
-![Water Reserve Infographic](Assets/water-reserve.svg)
+![Water Reserve Infographic](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/water-reserve.svg)
 
 #### 🗺️ Pucheguín — The Missing Puzzle Piece
 
-![Biological Corridor Map](Assets/biological-corridor.svg)
+![Biological Corridor Map](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/biological-corridor.svg)
 
 #### 🤝 Community & Tourism — Two Sides of the Same Coin
 
-![Voluntariado and Tourism Management](Assets/voluntariado-turismo.svg)
+![Voluntariado and Tourism Management](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/voluntariado-turismo.svg)
 
 ---
 
@@ -190,7 +190,7 @@ Our work is documented through extraordinary films. These tell the story of Coch
 
 ### 🌿 Conservation Timeline
 
-![Conservation Timeline](Assets/conservation-timeline.svg)
+![Conservation Timeline](https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/conservation-timeline.svg)
 
 ---
 
