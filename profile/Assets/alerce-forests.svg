@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" viewBox="0 0 680 520">
+<style>text{font-family:'Segoe UI',system-ui,sans-serif}.th{font-size:14px;font-weight:600;fill:#2c2c2a}.ts{font-size:12px;fill:#5f5e5a}</style>
+<defs><linearGradient id="treeg" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#27500A" stop-opacity=".9"/><stop offset="100%" stop-color="#639922" stop-opacity=".6"/></linearGradient></defs>
+<text class="th" x="340" y="36" text-anchor="middle" font-size="15">Fitzroya cupressoides — the longest-living tree species on Earth</text>
+<text class="ts" x="340" y="56" text-anchor="middle">Pucheguín protects ~11% of all remaining alerce forests in Chile</text>
+<rect x="80" y="90" width="18" height="280" rx="4" fill="url(#treeg)" opacity=".7"/>
+<ellipse cx="89" cy="95" rx="30" ry="22" fill="#639922" opacity=".4"/><ellipse cx="89" cy="115" rx="38" ry="28" fill="#639922" opacity=".35"/><ellipse cx="89" cy="145" rx="42" ry="32" fill="#639922" opacity=".3"/>
+<rect x="160" y="120" width="14" height="250" rx="3" fill="url(#treeg)" opacity=".6"/>
+<ellipse cx="167" cy="125" rx="26" ry="20" fill="#639922" opacity=".35"/><ellipse cx="167" cy="148" rx="32" ry="24" fill="#639922" opacity=".3"/>
+<rect x="220" y="80" width="20" height="290" rx="5" fill="url(#treeg)" opacity=".8"/>
+<ellipse cx="230" cy="85" rx="34" ry="24" fill="#639922" opacity=".45"/><ellipse cx="230" cy="112" rx="44" ry="32" fill="#639922" opacity=".38"/><ellipse cx="230" cy="150" rx="48" ry="36" fill="#639922" opacity=".3"/>
+<rect x="310" y="100" width="16" height="270" rx="4" fill="url(#treeg)" opacity=".65"/>
+<ellipse cx="318" cy="105" rx="28" ry="22" fill="#639922" opacity=".38"/><ellipse cx="318" cy="132" rx="36" ry="26" fill="#639922" opacity=".32"/>
+<rect x="370" y="75" width="22" height="295" rx="5" fill="url(#treeg)" opacity=".85"/>
+<ellipse cx="381" cy="80" rx="38" ry="26" fill="#639922" opacity=".5"/><ellipse cx="381" cy="110" rx="48" ry="34" fill="#639922" opacity=".4"/><ellipse cx="381" cy="150" rx="52" ry="38" fill="#639922" opacity=".32"/>
+<rect x="450" y="110" width="15" height="260" rx="3" fill="url(#treeg)" opacity=".6"/>
+<ellipse cx="457" cy="115" rx="28" ry="20" fill="#639922" opacity=".35"/><ellipse cx="457" cy="140" rx="34" ry="26" fill="#639922" opacity=".3"/>
+<path d="M40 370Q120 365,200 370Q280 368,360 370Q440 366,520 370Q560 368,640 370" fill="none" stroke="#5f5e5a" stroke-width="1" opacity=".3"/>
+<rect x="40" y="400" width="180" height="100" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/><text class="th" x="130" y="428" text-anchor="middle" fill="#27500A">17,737 hectares</text><text class="ts" x="130" y="448" text-anchor="middle" fill="#3B6D11">Alerce forests in</text><text class="ts" x="130" y="466" text-anchor="middle" fill="#3B6D11">Pucheguín</text>
+<rect x="250" y="400" width="180" height="100" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/><text class="th" x="340" y="428" text-anchor="middle" fill="#085041">2x carbon / ha</text><text class="ts" x="340" y="448" text-anchor="middle" fill="#0F6E56">Patagonian forests store</text><text class="ts" x="340" y="466" text-anchor="middle" fill="#0F6E56">twice the Amazon rate</text>
+<rect x="460" y="400" width="180" height="100" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/><text class="th" x="550" y="428" text-anchor="middle" fill="#412402">5,000+ years</text><text class="ts" x="550" y="448" text-anchor="middle" fill="#854F0B">Age of oldest known</text><text class="ts" x="550" y="466" text-anchor="middle" fill="#854F0B">alerce specimens</text>
+</svg>

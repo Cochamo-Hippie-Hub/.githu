@@ -12,69 +12,161 @@
 
 <br/>
 
-<!-- TYPING SVG -->
 <p align="center">
   <a href="https://cochamo-hippie-hub.github.io/Granite/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=2DD4A8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=35&lines=Open+source+conservation+tech+%7C+Cochamo%CC%81%2C+Patagonia;Bridging+innovators+with+territory;Offline-first+%C2%B7+Low+power+%C2%B7+Community+driven;Naveguemos+la+vanguardia+%F0%9F%8C%BF" alt="Typing SVG" />
   </a>
 </p>
 
-<br/>
-
-<!-- BADGES — status & social -->
 <p align="center">
-  <a href="https://github.com/Cochamo-Hippie-Hub/Granite/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-1a3a2a?style=for-the-badge&labelColor=0d2818&color=2dd4a8" alt="MIT License"/></a>&nbsp;
-  <a href="https://github.com/Cochamo-Hippie-Hub"><img src="https://img.shields.io/github/stars/Cochamo-Hippie-Hub?style=for-the-badge&label=Org+Stars&labelColor=0d2818&color=2dd4a8&logo=github&logoColor=white" alt="GitHub Stars"/></a>&nbsp;
-  <a href="https://cochamo-hippie-hub.github.io/Granite/"><img src="https://img.shields.io/badge/Website-Live-1a3a2a?style=for-the-badge&labelColor=0d2818&color=2dd4a8&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://cochamo-hippie-hub.github.io/Granite/"><img src="https://img.shields.io/badge/🌐_CHH_Website-cochamo--hippie--hub.github.io-2E7D32?style=for-the-badge" alt="Website"/></a>&nbsp;
+  <a href="https://puelopatagonia.cl"><img src="https://img.shields.io/badge/🏔️_Puelo_Patagonia-puelopatagonia.cl-1565C0?style=for-the-badge" alt="Puelo Patagonia"/></a>&nbsp;
+  <a href="https://conservapucheguin.org"><img src="https://img.shields.io/badge/🌿_Conserva_Pucheguín-conservapucheguin.org-4CAF50?style=for-the-badge" alt="Conserva Pucheguín"/></a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/CochamoHippie"><img src="https://img.shields.io/badge/@CochamoHippie-0d2818?style=flat-square&logo=x&logoColor=white" alt="X"/></a>&nbsp;
-  <a href="https://instagram.com/cochamohippiehub"><img src="https://img.shields.io/badge/@cochamohippiehub-0d2818?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-  <a href="mailto:cochamohippiehub@gmail.com"><img src="https://img.shields.io/badge/Contact-cochamohippiehub@gmail.com-0d2818?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/CochamoHippie"><img src="https://img.shields.io/badge/@CochamoHippie-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>&nbsp;
+  <a href="https://instagram.com/cochamohippiehub"><img src="https://img.shields.io/badge/@cochamohippiehub-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:cochamohippiehub@gmail.com"><img src="https://img.shields.io/badge/cochamohippiehub@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://instagram.com/puelopatagonia"><img src="https://img.shields.io/badge/@puelopatagonia_(52K)-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Puelo IG"/></a>
 </p>
 
 ---
 
-### 🌿 What is Cochamó Hippie Hub?
+### 🏛️ Who We Are
 
-**CHH** is an open-source technology management platform for conservation territories, piloted from the **Cochamó Valley** in Chilean Patagonia — a place known as *the Yosemite of South America*.
+**Cochamó Hippie Hub** is an open-source technical NGO platform born in **Chilean Patagonia**. We design modular, offline-first, low-energy technology for territorial conservation — piloted from the **Cochamó municipality**, home to one of Latin America's most significant conservation milestones.
 
-We don't build everything ourselves. We **bridge innovators with the territory**: connecting open-source tools, satellite data, ecological sensors, and community knowledge into a system that works offline, runs on low power, and belongs to the people who live there.
+We are the technical layer behind **[Corporación Puelo Patagonia](https://puelopatagonia.cl)** — a nonprofit with 12+ years defending Cochamó's heritage — and **[Fundación Conserva Pucheguín](https://conservapucheguin.org)** — the foundation that in December 2025 completed the historic purchase of **133,000 hectares** of pristine Patagonian wilderness.
 
-<br/>
+> *"Conservation can be an opportunity to preserve traditional activities and generate sustainable development opportunities, with impact at both local and global levels."*
 
-<!-- ARCHITECTURE LAYER BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Layer_1-Field_Capture-1a4a2e?style=for-the-badge&labelColor=0d2818" alt="Field Capture"/>
-  <img src="https://img.shields.io/badge/Layer_2-Intelligence-2a6a3e?style=for-the-badge&labelColor=0d2818" alt="Intelligence"/>
-  <img src="https://img.shields.io/badge/Layer_3-Management-2dd4a8?style=for-the-badge&labelColor=0d2818" alt="Management"/>
+
+| 🏔️ **133,000 ha** | 🌲 **58,819 ha** | 🦌 **40+ species** | 💧 **507 ha** | 🌍 **USD $78M** |
+|:---:|:---:|:---:|:---:|:---:|
+| Protected territory | Primary forest | Identified by monitoring | Glaciers | Successfully raised |
+
 </p>
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
+---
 
-**📡 Field Capture**<br/>
-<sub>Ecological sensors · Sentinel/Landsat/SAR · LoRa mesh · Starlink backhaul · Visitor registration</sub>
+### 🎬 The Territory in Motion — Video Gallery
 
-</td>
-<td width="33%" align="center">
+Our work is documented through extraordinary films. These tell the story of Cochamó's conservation journey — from community resistance to global fundraising victory.
 
-**🧠 Intelligence**<br/>
-<sub>Species ID · Fire detection · Vegetation change · Visitor flow modeling · Carbon quantification</sub>
+#### 🎥 Featured Films
 
-</td>
-<td width="33%" align="center">
+<p align="center">
 
-**🗺️ Management**<br/>
-<sub>Territorial dashboard · Public use reservations · Climber check-in/out · Community coordination</sub>
+| | |
+|:---:|:---:|
+| [![Cochamó por Siempre](https://img.youtube.com/vi/ZvpItUdq7pw/maxresdefault.jpg)](https://www.patagonia.com/stories/sports/climbing/cochamo-por-siempre/video-167887.html) | [![Conserva Pucheguín Campaign](https://img.youtube.com/vi/ZvpItUdq7pw/hqdefault.jpg)](https://www.youtube.com/watch?v=ZvpItUdq7pw) |
+| **🎬 Cochamó por Siempre** — *Patagonia Films, 2026 — 24 min* | **🎬 Conserva Pucheguín — Official Campaign** |
+| Narrated by Sean Villanueva, ft. Tommy Caldwell | The campaign that raised $78M in under 2 years |
 
-</td>
-</tr>
-</table>
+</p>
 
-<br/>
+#### 📺 More from the Territory
+
+<p align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| [![Video](https://img.shields.io/badge/▶️_Watch-Stone_Locals_Cochamó-FF0000?style=for-the-badge&logo=youtube)](https://www.patagonia.com/mx/stories/stone-locals/video-90763.html) | [![Video](https://img.shields.io/badge/▶️_Watch-Climbing_Trinidad-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=Cocham%C3%B3+climbing+Trinidad+Patagonia) | [![Video](https://img.shields.io/badge/▶️_Watch-Puelo_Sin_Torres-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=Puelo+Sin+Torres+Cochamo) |
+| **Stone Locals: Cochamó** | **Climbing Cerro Trinidad** | **Puelo Sin Torres** |
+| Patagonia Films | World-class big wall | Stopping the hydroelectric |
+| | | |
+| [![Video](https://img.shields.io/badge/▶️_Watch-Voluntariado_Rural-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=voluntariado+rural+Puelo+Patagonia+Cochamo) | [![Video](https://img.shields.io/badge/▶️_Watch-Santuario_Cochamó-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=santuario+naturaleza+valle+cochamo) | [![Video](https://img.shields.io/badge/▶️_Watch-Arrieros_Cochamó-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=arrieros+gaucho+Cochamo+Patagonia) |
+| **Voluntariado Rural** | **Santuario de la Naturaleza** | **Cultura Arriera** |
+| Community volunteering | 11,400 ha sanctuary, 2023 | UNESCO Living Treasures |
+| | | |
+| [![Video](https://img.shields.io/badge/▶️_Watch-Río_Puelo_Reserve-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=rio+puelo+reserva+caudal+ecologica) | [![Video](https://img.shields.io/badge/▶️_Watch-Monitoreo_Fauna-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=monitoreo+fauna+cochamo+huemul+camara+trampa) | [![Video](https://img.shields.io/badge/▶️_Watch-Tommy_Caldwell-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=tommy+caldwell+cochamo+climbing) |
+| **Río Puelo: Water Reserve** | **Wildlife Monitoring** | **Tommy Caldwell in Cochamó** |
+| First ecological flow reserve | Camera traps & huemul | World-class climber |
+
+</p>
+
+---
+
+### 🌲 Why Pucheguín Matters
+
+#### 🌿 Millennial Alerce Forests — Earth's Longest-Living Trees
+
+![Alerce Forests Infographic](Assets/alerce-forests.svg)
+
+#### 🦌 Biodiversity Monitoring — Endemic & Endangered Species
+
+![Huemul Biodiversity Infographic](Assets/huemul-biodiversity.svg)
+
+#### 💧 Strategic Freshwater Reserve
+
+![Water Reserve Infographic](Assets/water-reserve.svg)
+
+#### 🗺️ Pucheguín — The Missing Puzzle Piece
+
+![Biological Corridor Map](Assets/biological-corridor.svg)
+
+#### 🤝 Community & Tourism — Two Sides of the Same Coin
+
+![Voluntariado and Tourism Management](Assets/voluntariado-turismo.svg)
+
+---
+
+### 📰 Pucheguín in the Press — Global Media Coverage
+
+#### 🏆 Flagship Coverage
+
+<p align="center">
+
+[![NYT](https://img.shields.io/badge/⭐_The_New_York_Times-How_Locals_Saved_'the_Yosemite_of_South_America'-000000?style=for-the-badge)](https://www.freyjafoundation.org/news/new-york-times-how-locals-saved-the-yosemite-of-south-america/)
+
+*"This is an irreplaceable place." — Jeff Parrish, TNC*
+
+</p>
+
+#### 🌍 International & National Press
+
+| Publication | Coverage | Link |
+|:---|:---|:---:|
+| 🇬🇧 **The Guardian** | 133,000 hectares preserved — conservation success | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://news-usa.today/chile-patagonia-133000-hectares-preserved-conservation-success/) |
+| 🇺🇸 **The Nature Conservancy** | Historic purchase — coalition press release | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.nature.org/en-us/newsroom/heart-of-cochamo-in-chilean-patagonia-to-be-protected/) |
+| 🇺🇸 **Patagonia Works** | Coalition launch & historic purchase | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.patagoniaworks.com/press/2025/12/18/heart-of-cocham-in-chilean-patagonia-to-be-protected-after-historic-purchase) |
+| 🇺🇸 **Patagonia Stories** | Cochamó por Siempre — in-depth feature | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.patagonia.com/stories/cochamo-por-siempre/story-159358.html) |
+| 🇨🇱 **Patagon Journal** | Protection with local and global impact (Issue 29) | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.patagonjournal.com/index.php?option=com_content&view=article&id=4546) |
+| 🇨🇱 **Patagon Journal** | Cochamó Calling — Brady Robinson (Issue 28) | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.patagonjournal.com/index.php?option=com_content&view=article&id=4513) |
+| 🇨🇦 **Gripped Magazine** | Historic deal protects Cochamó | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://gripped.com/news/historic-deal-protects-cochamo-in-chilean-patagonia/) |
+| 🇮🇹 **Planet Mountain** | Fundraising surpasses 50% of goal | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.planetmountain.com/en/news/environment/cochamo-valley-patagonia-fundraising-campaign-surpasses-50-of-goal.html) |
+| 🇬🇧 **Outdoors Magic** | Cochamó Por Siempre film review | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://outdoorsmagic.com/article/watch-cochamo-por-siempre-patagonia-films/) |
+| 🇺🇸 **The Cool Down** | Locals save 'Yosemite of South America' | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.thecooldown.com/outdoors/hacienda-pucheguin-chile-land-conservation-patagonia/) |
+| 🇨🇱 **Chilenieve** | Film celebra victoria de conservación | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.chilenieve.com/cochamo-por-siempre-estrenan-film-que-celebra-una-de-las-mayores-victorias-de-conservacion-de-chile/) |
+| 🇨🇱 **Ladera Sur** | Puelo Patagonia NGO profile | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://laderasur.com/ong/puelo-patagonia/) |
+| 🇨🇱 **Revista Endémico** | Cochamó por Siempre — victoria | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://endemico.org/cochamo-por-siempre-film-celebra-una-de-las-mayores-victorias-de-conservacion-de-chile/) |
+| 🇺🇸 **Freyja Foundation** | Cochamó Valley — 20-year journey | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.freyjafoundation.org/news/category/cochamo-valley/) |
+| 🇺🇸 **Patagonia Action Works** | Partner organization profile | [![Read](https://img.shields.io/badge/Read-blue?style=flat-square)](https://www.patagonia.com/actionworks/organizations/puelo-patagonia/) |
+
+---
+
+### 📚 Key Public Documents & Resources
+
+| Document | Source | Access |
+|:---|:---|:---:|
+| 📋 Conserva Pucheguín — FAQ (Complete project details) | conservapucheguin.org | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://conservapucheguin.org/en/faq/) |
+| 📋 Conserva Pucheguín — Why (Ecological & cultural significance) | conservapucheguin.org | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://conservapucheguin.org/en/why/) |
+| 📋 Conserva Pucheguín — About (Coalition & objectives) | conservapucheguin.org | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://conservapucheguin.org/en/about/) |
+| 📋 History of Conservation Battles (1924–Present) | conservapucheguin.org | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://conservapucheguin.org/en/news/hacienda-pucheguin-and-the-cochamo-valley-a-history-of-conservation-battles-and-victories/) |
+| 📋 Historic Purchase Announcement (Dec 2025) | conservapucheguin.org | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://conservapucheguin.org/en/news-en/heart-of-cochamo-in-chilean-patagonia-to-be-protected-after-historic-purchase/) |
+| 📋 Puelo Patagonia — About Us (Team & history) | puelopatagonia.cl | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://puelopatagonia.cl/en/conocenos/) |
+| 📋 All News (Spanish/English) | puelopatagonia.cl | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://puelopatagonia.cl/en/noticias/) |
+| 📋 Conserva Pucheguín Fund (Donations) | Marin Community Foundation | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://donationcenter.marincf.org/fund/48) |
+| 📋 Cochamó Visitor Information | Patagon Journal | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://www.patagonjournal.com/index.php?option=com_content&view=article&id=4543&lang=en) |
+| 📋 Ruta de los Parques — Puelo | Ruta de los Parques | [![Open](https://img.shields.io/badge/Open-4CAF50?style=flat-square)](https://www.rutadelosparques.org/en/puelo/) |
+
+---
+
+### 🌿 Conservation Timeline
+
+![Conservation Timeline](Assets/conservation-timeline.svg)
 
 ---
 
@@ -86,35 +178,63 @@ We don't build everything ourselves. We **bridge innovators with the territory**
 
 #### [`Granite`](https://github.com/Cochamo-Hippie-Hub/Granite) &nbsp; 🪨
 
-Foundational repository. Design principles, architecture, community guidelines, and the bridge between external innovators and the Cochamó territory.
+Foundational manifesto & architecture. Three-layer design: Field Capture → Intelligence → Management. The bridge between innovators and the territory.
 
-<sub>
-
-![Markdown](https://img.shields.io/badge/Markdown-0d2818?style=flat-square&logo=markdown&logoColor=white)
 ![MIT](https://img.shields.io/github/license/Cochamo-Hippie-Hub/Granite?style=flat-square&color=2dd4a8&label=)
 ![Issues](https://img.shields.io/github/issues/Cochamo-Hippie-Hub/Granite?style=flat-square&color=2dd4a8&label=issues)
-
-</sub>
+[![Stars](https://img.shields.io/github/stars/Cochamo-Hippie-Hub/Granite?style=social)](https://github.com/Cochamo-Hippie-Hub/Granite)
 
 </td>
 <td width="50%">
 
 #### [`CirculoTerritorial`](https://github.com/Cochamo-Hippie-Hub/CirculoTerritorial) &nbsp; 🔵
 
-Territorial information management. Meeting records, community engagement data, stakeholder mapping, and institutional memory for the Cochamó conservation process.
+Territorial information management. Meeting records, community engagement, stakeholder mapping, institutional memory.
 
-<sub>
-
-![Markdown](https://img.shields.io/badge/Markdown-0d2818?style=flat-square&logo=markdown&logoColor=white)
 ![Issues](https://img.shields.io/github/issues/Cochamo-Hippie-Hub/CirculoTerritorial?style=flat-square&color=2dd4a8&label=issues)
-
-</sub>
+[![Stars](https://img.shields.io/github/stars/Cochamo-Hippie-Hub/CirculoTerritorial?style=social)](https://github.com/Cochamo-Hippie-Hub/CirculoTerritorial)
 
 </td>
 </tr>
 </table>
 
-<br/>
+#### Architecture: Three Layers of Territorial Tech
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Layer_1-Field_Capture-1a4a2e?style=for-the-badge&labelColor=0d2818" alt="Field Capture"/>
+  <img src="https://img.shields.io/badge/Layer_2-Intelligence-2a6a3e?style=for-the-badge&labelColor=0d2818" alt="Intelligence"/>
+  <img src="https://img.shields.io/badge/Layer_3-Management-2dd4a8?style=for-the-badge&labelColor=0d2818" alt="Management"/>
+</p>
+
+```
+┌──────────────────┬──────────────────┬───────────────────────────┐
+│ 📡 FIELD CAPTURE │ 🧠 INTELLIGENCE  │ 📊 MANAGEMENT             │
+│ Ecological       │ AI species ID    │ Territorial dashboard     │
+│ sensors          │ Fire detection   │ Public-use reservations   │
+│ Satellite        │ Vegetation       │ Climber check-in/out      │
+│ monitoring       │ change detect    │ Community coordination    │
+│ LoRa/Starlink    │ Visitor flow     │ Institutional memory      │
+│ connectivity     │ Carbon quant.    │ (GitHub-as-archive)       │
+└──────────────────┴──────────────────┴───────────────────────────┘
+```
+
+**Design principles:** Offline-first · Low energy · Modular · Replicable · Open data · Community-centered
+
+---
+
+### 🤝 The Coalition
+
+<p align="center">
+
+The Conserva Pucheguín initiative brought together a remarkable alliance:
+
+<a href="https://puelopatagonia.cl"><img src="https://img.shields.io/badge/Puelo_Patagonia-Local_NGO_•_12+_years-2E7D32?style=for-the-badge" alt="Puelo Patagonia"/></a>&nbsp;
+<a href="https://www.nature.org/en-us/about-us/where-we-work/latin-america/chile/conserva-pucheguin/"><img src="https://img.shields.io/badge/The_Nature_Conservancy-Global_partner-1565C0?style=for-the-badge" alt="TNC"/></a>&nbsp;
+<a href="https://www.freyjafoundation.org/news/category/cochamo-valley/"><img src="https://img.shields.io/badge/Freyja_Foundation-Climate_philanthropy-6A1B9A?style=for-the-badge" alt="Freyja"/></a>&nbsp;
+<a href="https://www.patagonia.com/actionworks/organizations/puelo-patagonia/"><img src="https://img.shields.io/badge/Patagonia_Inc.-Grassroots_activism-263238?style=for-the-badge" alt="Patagonia"/></a>&nbsp;
+<a href="https://www.wyssfoundation.org"><img src="https://img.shields.io/badge/Wyss_Foundation-First_major_gift-795548?style=for-the-badge" alt="Wyss"/></a>
+
+</p>
 
 ---
 
@@ -130,20 +250,15 @@ Territorial information management. Meeting records, community engagement data, 
   <img src="https://img.shields.io/badge/KoboToolbox-0d2818?style=for-the-badge&logo=kobotoolbox&logoColor=2dd4a8" alt="KoboToolbox"/>
 </p>
 
-<br/>
-
 ---
 
 ### 🐍 Contribution Activity
 
-<!-- Snake animation — generated by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/output/snake-light.svg">
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/output/snake-dark.svg" width="100%">
 </picture>
-
-<br/>
 
 ---
 
@@ -153,14 +268,19 @@ We're looking for collaborators in: **satellite remote sensing**, **ecological A
 
 <p align="center">
   <a href="https://github.com/Cochamo-Hippie-Hub/Granite/issues"><img src="https://img.shields.io/badge/Browse_Issues-2dd4a8?style=for-the-badge&labelColor=0d2818&logo=github&logoColor=white" alt="Browse Issues"/></a>&nbsp;
-  <a href="https://cochamo-hippie-hub.github.io/Granite/"><img src="https://img.shields.io/badge/Read_the_Docs-1a3a2a?style=for-the-badge&labelColor=0d2818&logo=readthedocs&logoColor=white" alt="Read the Docs"/></a>&nbsp;
-  <a href="https://github.com/Cochamo-Hippie-Hub/Granite/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing_Guide-1a3a2a?style=for-the-badge&labelColor=0d2818&logo=handshake&logoColor=white" alt="Contributing Guide"/></a>
+  <a href="https://cochamo-hippie-hub.github.io/Granite/"><img src="https://img.shields.io/badge/Read_the_Docs-1a3a2a?style=for-the-badge&labelColor=0d2818&logo=readthedocs&logoColor=white" alt="Docs"/></a>&nbsp;
+  <a href="https://github.com/Cochamo-Hippie-Hub/Granite/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing_Guide-1a3a2a?style=for-the-badge&labelColor=0d2818&logo=handshake&logoColor=white" alt="Contributing"/></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <sub><strong>Design principles:</strong> Offline-first · Low power · Modular · Replicable · Open data · Community-centered</sub>
+  <sub><em>"Had it been developed, it would have bifurcated a bunch of protected areas. This is the missing puzzle piece."</em></sub><br/>
+  <sub><strong>— Jeff Parrish, TNC Global Managing Director</strong></sub>
+</p>
+
+<p align="center">
+  <sub>⭐ <strong>Star our repos</strong> if you believe technology should serve conservation.</sub>
 </p>
 
 <p align="center">

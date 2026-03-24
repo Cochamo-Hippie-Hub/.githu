@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" viewBox="0 0 680 500">
+<style>text{font-family:'Segoe UI',system-ui,sans-serif}.th{font-size:14px;font-weight:600;fill:#2c2c2a}.ts{font-size:12px;fill:#5f5e5a}</style>
+<text class="th" x="340" y="36" text-anchor="middle" font-size="15">Pucheguín — strategic freshwater reserve</text>
+<text class="ts" x="340" y="56" text-anchor="middle">Critical headwaters for Puelo and Cochamó river basins</text>
+<path d="M40 280L140 120L200 180L280 80L360 160L420 100L520 200L600 140L640 280Z" fill="#5f5e5a" opacity=".06"/><path d="M40 280L140 120L200 180L280 80L360 160L420 100L520 200L600 140L640 280" fill="none" stroke="#5f5e5a" stroke-width="1" opacity=".2"/>
+<path d="M260 95L280 80L300 95Z" fill="#85B7EB" opacity=".5"/><path d="M400 115L420 100L440 115Z" fill="#85B7EB" opacity=".5"/><path d="M580 155L600 140L620 155Z" fill="#85B7EB" opacity=".4"/>
+<path d="M280 95Q300 140,290 180Q280 220,300 250Q310 270,300 280" fill="none" stroke="#378ADD" stroke-width="2.5" opacity=".6" stroke-linecap="round"/><path d="M420 115Q440 160,430 200Q420 240,440 260Q450 275,440 280" fill="none" stroke="#378ADD" stroke-width="2" opacity=".5" stroke-linecap="round"/>
+<ellipse cx="340" cy="290" rx="180" ry="16" fill="#85B7EB" opacity=".15"/><ellipse cx="340" cy="290" rx="180" ry="16" fill="none" stroke="#378ADD" stroke-width="0.5" opacity=".3"/>
+<rect x="40" y="330" width="140" height="76" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/><text class="th" x="110" y="358" text-anchor="middle" fill="#0C447C">507 ha</text><text class="ts" x="110" y="378" text-anchor="middle" fill="#185FA5">Glaciers</text>
+<rect x="200" y="330" width="140" height="76" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/><text class="th" x="270" y="358" text-anchor="middle" fill="#085041">372 km</text><text class="ts" x="270" y="378" text-anchor="middle" fill="#0F6E56">Riverbanks</text>
+<rect x="360" y="330" width="140" height="76" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/><text class="th" x="430" y="358" text-anchor="middle" fill="#26215C">150 ha</text><text class="ts" x="430" y="378" text-anchor="middle" fill="#534AB7">Wetlands</text>
+<rect x="520" y="330" width="140" height="76" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/><text class="th" x="590" y="358" text-anchor="middle" fill="#27500A">41 km</text><text class="ts" x="590" y="378" text-anchor="middle" fill="#3B6D11">Lake shores</text>
+<rect x="80" y="436" width="520" height="50" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/><text class="th" x="340" y="455" text-anchor="middle" fill="#0C447C">Río Puelo — Water Flow Reserve</text><text class="ts" x="340" y="473" text-anchor="middle" fill="#185FA5">First river in Chile protected by ecological flow reserve (2025)</text>
+</svg>
