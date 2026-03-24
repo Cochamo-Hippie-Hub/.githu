@@ -61,9 +61,9 @@ Our work is documented through extraordinary films. These tell the story of Coch
 
 | | |
 |:---:|:---:|
-| [![Cochamó por Siempre](https://img.youtube.com/vi/ZvpItUdq7pw/maxresdefault.jpg)](https://www.patagonia.com/stories/sports/climbing/cochamo-por-siempre/video-167887.html) | [![Conserva Pucheguín Campaign](https://img.youtube.com/vi/ZvpItUdq7pw/hqdefault.jpg)](https://www.youtube.com/watch?v=ZvpItUdq7pw) |
-| **🎬 Cochamó por Siempre** — *Patagonia Films, 2026 — 24 min* | **🎬 Conserva Pucheguín — Official Campaign** |
-| Narrated by Sean Villanueva, ft. Tommy Caldwell | The campaign that raised $78M in under 2 years |
+| [![Conserva Pucheguín, protege Cochamó](https://img.youtube.com/vi/panXHQk7T5E/maxresdefault.jpg)](https://www.youtube.com/watch?v=panXHQk7T5E) | [![Cochamó por Siempre — Patagonia Films](https://img.youtube.com/vi/ZvpItUdq7pw/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZvpItUdq7pw) |
+| **🎬 Conserva Pucheguín, protege Cochamó** | **🎬 Cochamó por Siempre** — *Patagonia Films, 2026* |
+| The territory, the people, the mission | Narrated by Sean Villanueva, ft. Tommy Caldwell |
 
 </p>
 
