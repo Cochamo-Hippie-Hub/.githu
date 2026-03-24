@@ -67,6 +67,41 @@ Our work is documented through extraordinary films. These tell the story of Coch
 
 </p>
 
+#### 📺 Conserva Pucheguín YouTube Channel
+
+<p align="center">
+
+| | |
+|:---:|:---:|
+| [![Conserva Pucheguín](https://img.youtube.com/vi/ZvpItUdq7pw/hqdefault.jpg)](https://www.youtube.com/watch?v=ZvpItUdq7pw) | [![Cochamó por Siempre](https://img.youtube.com/vi/ZvpItUdq7pw/mqdefault.jpg)](https://www.youtube.com/@ConservaPucheguin) |
+| **🎬 Conserva Pucheguín, protege Cochamó** | **🎬 Canal YouTube @ConservaPucheguin** |
+| Video oficial de lanzamiento de campaña | Suscríbete para seguir la historia |
+| [![Escalada](https://conservapucheguin.org/wp-content/uploads/2025/02/Austin-Siadak-scaled-1.jpg)](https://conservapucheguin.org/noticias/visita-de-escaladores-internacionales-en-cochamo-resalta-urgencia-de-conservar-y-asegurar-el-acceso-a-la-montana-en-reconocidas-rutas-de-escalada/) | [![Talleres](https://conservapucheguin.org/wp-content/uploads/2025/09/IMG_7597.webp)](https://conservapucheguin.org/noticias/comunidades-de-puelo-y-cochamo-aportan-su-vision-en-2da-ronda-de-talleres-participativos-para-futura-area-protegida-mixta/) |
+| **Tommy Caldwell en Cochamó** | **Talleres participativos comunitarios** |
+| Escaladores internacionales por la conservación | Diseño participativo del área protegida |
+
+</p>
+
+#### 📰 Noticias Conserva Pucheguín
+
+<p align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| [![](https://conservapucheguin.org/wp-content/uploads/2025/12/Austin-Siadak.jpg)](https://conservapucheguin.org/noticias/historico-miles-de-donaciones-desde-chile-y-el-mundo-logran-proteger-133-mil-hectareas-en-cochamo/) | [![](https://conservapucheguin.org/wp-content/uploads/2025/10/Creditos_-Valentina-Thenoux-1-1-scaled-e1761083971595.webp)](https://conservapucheguin.org/noticias/conserva-pucheguin-logra-superar-el-80-de-la-meta-el-llamado-es-a-los-chilenos-a-sumarse-a-esta-causa/) | [![](https://conservapucheguin.org/wp-content/uploads/2025/08/igMesa_de_trabajo_1HUEMUL_PORTADA.png)](https://conservapucheguin.org/noticias/inedito-registro-de-huemules-en-fundo-pucheguin-poblacion-seria-la-mas-al-norte-de-la-patagonia-chilena/) |
+| **Histórico: 133K ha protegidas** | **Supera el 80% de la meta** | **Registro inédito de huemules** |
+| Dic 2025 | Oct 2025 | Ago 2025 |
+| [![](https://conservapucheguin.org/wp-content/uploads/2025/05/smith_drew_00765.jpg)](https://conservapucheguin.org/noticias/tour-cochamo-por-siempre-una-mirada-al-interior-de-los-esfuerzos-por-proteger-el-valle-cochamo-y-pucheguin/) | [![](https://conservapucheguin.org/wp-content/uploads/2025/02/f15-Diego-Ojeda-scaled-1.jpg)](https://conservapucheguin.org/noticias/cochamo-donde-es-el-incendio-y-que-ecosistemas-pone-en-peligro/) | [![](https://conservapucheguin.org/wp-content/uploads/2024/05/Vizcacha-de-la-Patagonia-2.jpg)](https://conservapucheguin.org/noticias/monitoreo-en-hacienda-pucheguin-registro-tres-especies-nativas-en-peligro-de-conservacion/) |
+| **Tour Cochamó por Siempre** | **Incendio en Cochamó** | **3 especies en peligro** |
+| May 2025 | Feb 2025 | May 2024 |
+| [![](https://conservapucheguin.org/wp-content/uploads/2025/02/P.A.-1047-scaled-1.jpg)](https://conservapucheguin.org/noticias/para-visitar-hay-que-reservar-comenzo-la-temporada-en-el-valle-cochamo-y-60-de-su-capacidad-ya-esta-reservada/) | [![](https://conservapucheguin.org/wp-content/uploads/2025/02/IMG_7667-scaled-1.jpg)](https://conservapucheguin.org/noticias/ladera-sur-fest-2024-conserva-pucheguin-participa-de-la-gran-fiesta-de-la-naturaleza-en-chile/) | [![](https://conservapucheguin.org/wp-content/uploads/2024/04/VALENTINA-THENOUX-CREDITOS-2-scaled.jpg)](https://conservapucheguin.org/noticias/hacienda-pucheguin-y-el-valle-de-cochamo-una-historia-de-batallas-y-victorias-de-conservacion/) |
+| **¡Hay que reservar!** | **Ladera Sur Fest 2024** | **Historia de batallas y victorias** |
+| Dic 2024 | Nov 2024 | Abr 2024 |
+
+</p>
+
+> 📰 **[Ver todas las noticias en conservapucheguin.org →](https://conservapucheguin.org/noticias/)**
+
 #### 📺 More from the Territory
 
 <p align="center">
