@@ -89,6 +89,30 @@ Our work is documented through extraordinary films. These tell the story of Coch
 
 ---
 
+### 📊 Data & Impact
+
+#### Fundraising Progress — $78M raised from 21 countries
+
+![Fundraising Chart](Assets/chart-fundraising.svg)
+
+#### Hectares Under Protection — Conservation milestones 2009–2025
+
+![Hectares Protected](Assets/chart-hectares.svg)
+
+#### Ecosystem Composition — 132,876 hectares by land cover
+
+![Ecosystem Composition](Assets/chart-ecosystem.svg)
+
+#### Conservation Plan — 80% strict protection / 20% sustainable use
+
+![Conservation Plan](Assets/pie-conservation-plan.svg)
+
+#### Binational Biological Corridor — 1.64 million hectares connected
+
+![Biological Corridor](Assets/pie-corridor.svg)
+
+---
+
 ### 🌲 Why Pucheguín Matters
 
 #### 🌿 Millennial Alerce Forests — Earth's Longest-Living Trees
