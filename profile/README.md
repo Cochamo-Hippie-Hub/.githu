@@ -33,6 +33,33 @@
 
 ---
 
+### 🌐 Explore Our Website
+
+<p align="center">
+  <a href="https://cochamo-hippie-hub.github.io/Granite/index.html">
+    <img src="https://img.shields.io/badge/🌐_Visit_the_CHH_Website-Open_Source_Conservation_Tech_from_Patagonia-0d2818?style=for-the-badge&labelColor=0a1f12&color=2dd4a8" alt="Visit CHH Website"/>
+  </a>
+</p>
+
+<p align="center">
+
+| | |
+|:---:|:---:|
+| 🪨 **Granite Manifesto** | 🗺️ **Territory & Architecture** |
+| Our foundational document: design principles, community guidelines, and the philosophy behind building technology that serves conservation. | Three-layer architecture: Field Capture → Intelligence → Management. Offline-first, low-energy, modular, replicable. |
+| 🌿 **Open Problems** | 🤝 **How to Contribute** |
+| Real territorial challenges waiting for solutions: climber safety systems, fire detection, species monitoring, carbon quantification. | Developers, GIS specialists, conservation scientists, and designers — find your entry point. |
+
+</p>
+
+<p align="center">
+  <a href="https://cochamo-hippie-hub.github.io/Granite/index.html"><img src="https://img.shields.io/badge/🔗_cochamo--hippie--hub.github.io/Granite-Visit_Now-2dd4a8?style=flat-square&labelColor=0d2818" alt="CHH Site"/></a>&nbsp;
+  <a href="https://cochamo-hippie-hub.github.io/Granite/index.html"><img src="https://img.shields.io/badge/Language-English_&_Español-1a3a2a?style=flat-square&labelColor=0d2818" alt="Bilingual"/></a>&nbsp;
+  <a href="https://cochamo-hippie-hub.github.io/Granite/index.html"><img src="https://img.shields.io/badge/Hosted_on-GitHub_Pages-1a3a2a?style=flat-square&logo=github&labelColor=0d2818" alt="GitHub Pages"/></a>
+</p>
+
+---
+
 ### 🏛️ Who We Are
 
 **Cochamó Hippie Hub** is an open-source technical NGO platform born in **Chilean Patagonia**. We design modular, offline-first, low-energy technology for territorial conservation — piloted from the **Cochamó municipality**, home to one of Latin America's most significant conservation milestones.
