@@ -64,7 +64,7 @@
 
 **Cochamó Hippie Hub** is an open-source technical NGO platform born in **Chilean Patagonia**. We design modular, offline-first, low-energy technology for territorial conservation — piloted from the **Cochamó municipality**, home to one of Latin America's most significant conservation milestones.
 
-We are the technical layer behind **[Corporación Puelo Patagonia](https://puelopatagonia.cl)** — a nonprofit with 12+ years defending Cochamó's heritage — and **[Fundación Conserva Pucheguín](https://conservapucheguin.org)** — the foundation that in December 2025 completed the historic purchase of **133,000 hectares** of pristine Patagonian wilderness.
+We are the technical layer behind **[Corporación Puelo Patagonia](https://puelopatagonia.cl)** — a nonprofit with 12+ years defending Cochamó's heritage that in December 2025 completed the historic purchase of **133,000 hectares** of pristine Patagonian wilderness.
 
 > *"Conservation can be an opportunity to preserve traditional activities and generate sustainable development opportunities, with impact at both local and global levels."*
 
