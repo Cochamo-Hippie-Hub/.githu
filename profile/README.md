@@ -268,7 +268,7 @@ Territorial information management. Meeting records, community engagement, stake
 #### 🧬 Knowledge Architecture — Territorial Information System
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/knowledge-architecture.svg" alt="Granite Knowledge Architecture — 12 domains, 56 subfolders" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/knowledge-arch-v2.svg" alt="Granite Knowledge Architecture — 12 domains, 56 subfolders" width="100%"/>
 </p>
 
 <p align="center">
