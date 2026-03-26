@@ -265,6 +265,20 @@ Territorial information management. Meeting records, community engagement, stake
 </tr>
 </table>
 
+#### 🧬 Knowledge Architecture — Territorial Information System
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cochamo-Hippie-Hub/.github/main/profile/Assets/knowledge-architecture.svg" alt="Granite Knowledge Architecture — 12 domains, 56 subfolders" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Cochamo-Hippie-Hub/Granite/tree/main/data"><img src="https://img.shields.io/badge/📂_Browse_the_Knowledge_Repository-Granite/data/-2dd4a8?style=for-the-badge&labelColor=0d2818" alt="Browse data/"/></a>
+</p>
+
+> **Granite `data/`** is an open knowledge repository for protected area management. 12 thematic domains — from science and climbing routes to legal frameworks and community heritage — each with collaboration guides, format standards, and open access. Designed to be forked by any protected area on Earth.
+
+---
+
 #### Architecture: Three Layers of Territorial Tech
 
 <p align="center">
