@@ -1,75 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 660" width="800" height="660">
-<rect width="800" height="660" fill="#0d1117" rx="12"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 720" width="800" height="720">
+<rect width="800" height="720" fill="#0d1117" rx="12"/>
 <text x="400" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="600" fill="#c9d1d9">Granite - Territorial knowledge architecture</text>
-<text x="400" y="50" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#8b949e">5 macro-domains - 12 folders - Open data for protected area management</text>
-<rect x="280" y="60" width="240" height="32" rx="8" fill="#1f2937" stroke="#2dd4a8" stroke-width="1"/>
-<text x="400" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#2dd4a8">data/</text>
-<line x1="400" y1="92" x2="400" y2="110" stroke="#30363d"/>
-<line x1="80" y1="110" x2="720" y2="110" stroke="#30363d"/>
-<line x1="80" y1="110" x2="80" y2="126" stroke="#30363d"/>
-<rect x="20" y="126" width="280" height="130" rx="10" fill="#071a12" stroke="#22c55e" stroke-width="0.8"/>
-<text x="160" y="148" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#4ade80">I. Conservacion y ciencia</text>
-<text x="160" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">Entender y proteger los ecosistemas</text>
-<rect x="36" y="176" width="120" height="26" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="96" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#5eead4">Ciencia</text>
-<rect x="164" y="176" width="120" height="26" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="224" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#5eead4">Monitoreo</text>
-<rect x="80" y="210" width="160" height="26" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="160" y="227" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#5eead4">Conservacion</text>
-<text x="160" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">fauna, flora, geologia, clima, restauracion, spp.</text>
-<line x1="560" y1="110" x2="560" y2="126" stroke="#30363d"/>
-<rect x="400" y="126" width="380" height="130" rx="10" fill="#1a1000" stroke="#f59e0b" stroke-width="0.8"/>
-<text x="590" y="148" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#fbbf24">II. Gestion operativa</text>
-<text x="590" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">Como funciona el area protegida dia a dia</text>
-<rect x="416" y="176" width="82" height="26" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="457" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fbbf24">Gobernanza</text>
-<rect x="506" y="176" width="82" height="26" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="547" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fbbf24">Seguridad</text>
-<rect x="596" y="176" width="82" height="26" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="637" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Infraestructura</text>
-<rect x="686" y="176" width="82" height="26" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="727" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fbbf24">Visitantes</text>
-<text x="590" y="224" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">organigramas, rescate, senderos, senaletica,</text>
-<text x="590" y="236" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">saneamiento, educacion ambiental, reservas, voluntariado</text>
-<line x1="400" y1="270" x2="400" y2="290" stroke="#30363d" stroke-dasharray="3 3"/>
-<line x1="80" y1="290" x2="720" y2="290" stroke="#30363d"/>
-<line x1="240" y1="290" x2="240" y2="306" stroke="#30363d"/>
-<rect x="60" y="306" width="360" height="100" rx="10" fill="#0c1a30" stroke="#3b82f6" stroke-width="0.8"/>
-<text x="240" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#60a5fa">III. Actividades y recreacion</text>
-<text x="240" y="344" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">Lo que se puede hacer al aire libre y como hacerlo</text>
-<rect x="76" y="356" width="62" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="107" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa">Escalada</text>
-<rect x="146" y="356" width="62" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="177" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa">Trekking</text>
-<rect x="216" y="356" width="72" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="252" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa">Cabalgatas</text>
-<rect x="296" y="356" width="52" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="322" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa">Kayak</text>
-<rect x="356" y="356" width="52" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="382" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#60a5fa">Trail run</text>
-<text x="240" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">rutas, topos, protocolos, historia, etica deportiva</text>
-<line x1="600" y1="290" x2="600" y2="306" stroke="#30363d"/>
-<rect x="460" y="306" width="300" height="100" rx="10" fill="#140826" stroke="#8b5cf6" stroke-width="0.8"/>
-<text x="610" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#a78bfa">IV. Territorio y marco juridico</text>
-<text x="610" y="344" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">Soporte espacial, normativo e institucional</text>
-<rect x="476" y="356" width="90" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="521" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#a78bfa">Cartografia</text>
-<rect x="574" y="356" width="60" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="604" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#a78bfa">Legal</text>
-<rect x="642" y="356" width="102" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="693" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#a78bfa">Institucional</text>
-<text x="610" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">limites, cuencas, DRC, permisos, ordenanza comunal</text>
-<line x1="400" y1="420" x2="400" y2="440" stroke="#30363d" stroke-dasharray="3 3"/>
-<rect x="100" y="450" width="600" height="110" rx="10" fill="#2a0a2e" stroke="#d946ef" stroke-width="0.8"/>
-<text x="400" y="474" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#e879f9">V. Comunidad y patrimonio</text>
-<text x="400" y="490" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">Las personas que habitan, cuidan y dan sentido al territorio</text>
-<rect x="130" y="504" width="240" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="250" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#e879f9">Comunidad</text>
-<rect x="430" y="504" width="240" height="24" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-<text x="550" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#e879f9">Patrimonio cultural</text>
-<text x="400" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">familias, arrieros, pueblos originarios, historia oral, saberes ancestrales, arqueologia</text>
-<rect x="100" y="585" width="600" height="36" rx="8" fill="#1f2937" stroke="#30363d" stroke-width="0.8"/>
-<text x="400" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">5 macro-domains / 12 folders / 56 subfolders</text>
-<text x="400" y="614" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">Open / CC BY 4.0 / Forkeable by any protected area</text>
-<text x="400" y="644" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#6e7681" font-style="italic">Naveguemos la vanguardia</text>
+<text x="400" y="50" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#8b949e">6 domains + 7 transversal layers - Open data for protected areas</text>
+<rect x="280" y="60" width="240" height="28" rx="8" fill="#1f2937" stroke="#2dd4a8" stroke-width="1"/>
+<text x="400" y="79" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#2dd4a8">data/</text>
+<line x1="400" y1="88" x2="400" y2="104" stroke="#30363d"/>
+<line x1="80" y1="104" x2="720" y2="104" stroke="#30363d"/>
+<line x1="80" y1="104" x2="80" y2="118" stroke="#30363d"/>
+<rect x="20" y="118" width="280" height="86" rx="8" fill="#071a12" stroke="#22c55e" stroke-width="0.8"/>
+<text x="160" y="138" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#4ade80">1. Conservacion y sistemas ecologicos</text>
+<rect x="36" y="150" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="67" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#5eead4">Conocim.</text>
+<rect x="104" y="150" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="135" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#5eead4">Monitoreo</text>
+<rect x="172" y="150" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="203" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#5eead4">Gestion ec.</text>
+<rect x="240" y="150" width="50" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="265" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#5eead4">Riesgos</text>
+<text x="160" y="196" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">geologia fauna flora clima camaras trampa</text>
+<line x1="560" y1="104" x2="560" y2="118" stroke="#30363d"/>
+<rect x="400" y="118" width="380" height="86" rx="8" fill="#1a1000" stroke="#f59e0b" stroke-width="0.8"/>
+<text x="590" y="138" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#fbbf24">2. Gestion del area</text>
+<rect x="416" y="150" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="444" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Gobern.</text>
+<rect x="478" y="150" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="506" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Seguridad</text>
+<rect x="540" y="150" width="50" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="565" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Infraestr.</text>
+<rect x="596" y="150" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="624" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Uso pub.</text>
+<rect x="658" y="150" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="686" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Operacion</text>
+<text x="590" y="196" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">protocolos rescate senderos voluntariado</text>
+<line x1="400" y1="216" x2="400" y2="232" stroke="#30363d" stroke-dasharray="3 3"/>
+<line x1="80" y1="232" x2="720" y2="232" stroke="#30363d"/>
+<line x1="240" y1="232" x2="240" y2="248" stroke="#30363d"/>
+<rect x="60" y="248" width="360" height="86" rx="8" fill="#0c1a30" stroke="#3b82f6" stroke-width="0.8"/>
+<text x="240" y="268" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#60a5fa">3. Actividades y recreacion</text>
+<rect x="76" y="280" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="104" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#60a5fa">Montana</text>
+<rect x="138" y="280" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="169" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#60a5fa">Ecuestres</text>
+<rect x="206" y="280" width="42" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="227" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#60a5fa">Agua</text>
+<rect x="254" y="280" width="68" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="288" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#60a5fa">Cultura acc.</text>
+<rect x="328" y="280" width="78" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="367" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#60a5fa">Info practica</text>
+<text x="240" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">escalada trekking cabalgatas kayak LNT topos</text>
+<line x1="600" y1="232" x2="600" y2="248" stroke="#30363d"/>
+<rect x="460" y="248" width="280" height="86" rx="8" fill="#140826" stroke="#8b5cf6" stroke-width="0.8"/>
+<text x="600" y="268" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#a78bfa">4. Territorio y marco juridico</text>
+<rect x="476" y="280" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="507" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#a78bfa">Cartografia</text>
+<rect x="544" y="280" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="575" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#a78bfa">Propiedad</text>
+<rect x="612" y="280" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="640" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#a78bfa">Normativa</text>
+<rect x="674" y="280" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="702" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#a78bfa">Institucional</text>
+<text x="600" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">GIS limites DRC permisos FCP CPP</text>
+<line x1="400" y1="346" x2="400" y2="362" stroke="#30363d" stroke-dasharray="3 3"/>
+<line x1="80" y1="362" x2="720" y2="362" stroke="#30363d"/>
+<line x1="240" y1="362" x2="240" y2="378" stroke="#30363d"/>
+<rect x="60" y="378" width="360" height="74" rx="8" fill="#2a0a2e" stroke="#d946ef" stroke-width="0.8"/>
+<text x="240" y="398" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#e879f9">5. Comunidad, historia y patrimonio</text>
+<rect x="76" y="410" width="72" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="112" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e879f9">Habitantes</text>
+<rect x="154" y="410" width="66" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="187" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e879f9">Practicas</text>
+<rect x="226" y="410" width="60" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="256" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e879f9">Historia</text>
+<rect x="292" y="410" width="72" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="328" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e879f9">Patrimonio</text>
+<text x="240" y="446" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">familias arrieros relatos arqueologia</text>
+<line x1="600" y1="362" x2="600" y2="378" stroke="#30363d"/>
+<rect x="460" y="378" width="280" height="74" rx="8" fill="#1a1000" stroke="#f59e0b" stroke-width="0.8"/>
+<text x="600" y="398" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#fbbf24">6. Economia territorial</text>
+<rect x="476" y="410" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="507" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Servicios</text>
+<rect x="544" y="410" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="572" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Turismo</text>
+<rect x="606" y="410" width="62" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="637" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Productivas</text>
+<rect x="674" y="410" width="56" height="20" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<text x="702" y="424" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fbbf24">Financiam.</text>
+<text x="600" y="446" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#484f58">campings guias endowment tarifas</text>
+<line x1="40" y1="470" x2="760" y2="470" stroke="#30363d" stroke-dasharray="6 4"/>
+<text x="400" y="492" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#c9d1d9">7 transversal layers (mandatory metadata)</text>
+<rect x="40" y="506" width="720" height="166" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<rect x="56" y="518" width="100" height="18" rx="3" fill="#042f2e" stroke="#2dd4bf" stroke-width="0.5"/>
+<text x="106" y="531" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#5eead4">A. Ubicacion</text>
+<text x="168" y="531" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">coordenadas, sector, cuenca, predio</text>
+<rect x="56" y="540" width="100" height="18" rx="3" fill="#172554" stroke="#3b82f6" stroke-width="0.5"/>
+<text x="106" y="553" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa">B. Escala</text>
+<text x="168" y="553" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">sitio / sendero / sector / valle / territorio</text>
+<rect x="56" y="562" width="100" height="18" rx="3" fill="#140826" stroke="#8b5cf6" stroke-width="0.5"/>
+<text x="106" y="575" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#a78bfa">C. Temporalidad</text>
+<text x="168" y="575" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">fecha, periodo, historico, actual, proyeccion</text>
+<rect x="56" y="584" width="100" height="18" rx="3" fill="#1a1000" stroke="#f59e0b" stroke-width="0.5"/>
+<text x="106" y="597" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fbbf24">D. Fuente</text>
+<text x="168" y="597" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">tecnico, terreno, sensor, comunidad, publicacion</text>
+<rect x="56" y="606" width="100" height="18" rx="3" fill="#2a0a2e" stroke="#d946ef" stroke-width="0.5"/>
+<text x="106" y="619" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e879f9">E. Actor</text>
+<text x="168" y="619" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">visitante, habitante, operador, institucion, investigador</text>
+<rect x="56" y="628" width="100" height="18" rx="3" fill="#1c1917" stroke="#f97316" stroke-width="0.5"/>
+<text x="106" y="641" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fb923c">F. Tipo</text>
+<text x="168" y="641" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">mapa, informe, ficha, imagen, audio, dataset, norma</text>
+<rect x="56" y="650" width="100" height="18" rx="3" fill="#450a0a" stroke="#ef4444" stroke-width="0.5"/>
+<text x="106" y="663" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#f87171">G. Validacion</text>
+<text x="168" y="663" font-family="Arial,sans-serif" font-size="9" fill="#8b949e">validado tecnico / comunitario / no validado / en revision</text>
+<text x="400" y="700" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#6e7681" font-style="italic">Una pieza, un lugar. El crecimiento ocurre en metadatos, no en carpetas.</text>
 </svg>
